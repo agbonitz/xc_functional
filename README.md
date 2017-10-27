@@ -10,4 +10,4 @@ is provided in Fortran, C, and Python. Hartree atomic units are used.
 
 If you have any questions / issues please contact us via e-mail at groth@theo-physik.uni-kiel.de
 
-Please find a list of related references in the provided BibTex file. 
+Please find a list of related references in the provided BibTex file and a data set of static structure factors of the electron gas.
